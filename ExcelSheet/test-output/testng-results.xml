@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10911" started-at="2020-07-05T14:08:19 IST" finished-at="2020-07-05T14:08:30 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10911" started-at="2020-07-05T14:08:19 IST" finished-at="2020-07-05T14:08:30 IST">
+      <class name="FacebookLogin">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String)[pri:0, instance:FacebookLogin@30b8a058]" name="Login" duration-ms="10437" started-at="2020-07-05T14:08:19 IST" data-provider="wordpressdata" finished-at="2020-07-05T14:08:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123445.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[81975.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- FacebookLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
